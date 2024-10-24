@@ -7,7 +7,7 @@ I enjoy building responsive, dynamic, and scalable web applications, using techn
 I'm deeply interested in:
 - **Web Development**: Creating seamless and intuitive user interfaces, building secure backends, and optimizing for performance.
 - **Cloud Computing**: Exploring how cloud services can scale applications and improve infrastructure.
-- **Problem Solving**: Solving complex coding challenges to improve logic and efficiency, with over **300+ problems solved on Leetcode**.
+- **Problem Solving**: Solving complex coding challenges to improve logic and efficiency, with over **500+ problems solved on Leetcode**.
 - **Open-Source**: I believe in contributing to the developer community and learning from diverse perspectives.
 
 ---
