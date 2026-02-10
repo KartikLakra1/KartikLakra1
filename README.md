@@ -6,10 +6,16 @@ I specialize in building scalable web architectures and AI-driven tools. Current
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** C++, JavaScript, Python, TypeScript
-* **Frontend:** React, Next.js, SASS, Storybook, Tailwind CSS.
-* **Backend:** Node.js, MongoDB, Express.js, Mongoose.
-* **DevOps/Tools:** Docker, AWS, Git, Postman.
+* **Programming Languages:** C++, JavaScript, Python, TypeScript
+* **Web Technologies:** HTML, CSS, React.js, Next.js, Tailwind CSS, SASS, Storybook
+* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+* **Databases:** MongoDB
+* **State Management:** Redux Toolkit
+* **AI Integration:** OpenAI API, Google Gemini API
+* **DevOps & Deployment:** Docker, AWS EC2, CI/CD
+* **Development Tools:** Git, VSCode, Postman
+* **Testing:** React Testing Library, Unit Testing
+* **Concepts:** DBMS, OS, OOPS, CN
 
 
 ---
